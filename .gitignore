@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+frac/
+
+# Originial data
+unused_data/
+images/
+
+# Data
+data/
+*.csv
+
+# Models
+models/
+*.h5
+
+# DVC
+.dvc/
+.dvcignore
+dvc_store/
+
+# Jupyter
+.ipynb_checkpoints/
+
+/images
